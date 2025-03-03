@@ -1,9 +1,9 @@
 apiVersion: accounts.resource.api.sap/v1
 metadata:
-  name: test-cascade-delete-org4
-  path: /test
+  name: MyFirstOrg
+  path: /
 spec:
-  displayName: "Dor And Noam org333"
+  displayName: "Test URM Git Integrations"
   description: " My description"
   initialAdmins:
     - lior.shilo@sap.com
