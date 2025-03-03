@@ -1,0 +1,8 @@
+apiVersion: accounts.resource.api.sap/v1
+metadata:
+  name: my-first-rg
+  path: /my-first-org/my-first-folder
+spec:
+  displayName: "Test URM Git Integrations"
+  description: " My description"
+type: ResourceGroup
