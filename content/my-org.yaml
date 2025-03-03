@@ -1,0 +1,10 @@
+apiVersion: accounts.resource.api.sap/v1
+metadata:
+  name: my-first-org
+  path: /
+spec:
+  displayName: "Test URM Git Integrations"
+  description: " My description"
+  initialAdmins:
+    - lior.shilo@sap.com
+type: OrganizationBase
