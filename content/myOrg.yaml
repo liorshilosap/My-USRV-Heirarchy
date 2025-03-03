@@ -1,0 +1,10 @@
+apiVersion: accounts.resource.api.sap/v1
+metadata:
+  name: test-cascade-delete-org4
+  path: /test
+spec:
+  displayName: "Dor And Noam org222"
+  description: " My description"
+  initialAdmins:
+    - lior.shilo@sap.com
+type: OrganizationBase
