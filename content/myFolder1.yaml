@@ -1,7 +1,7 @@
 apiVersion: accounts.resource.api.sap/v1
 metadata:
   name: my-first-folder
-  path: /
+  path: /my-first-org
 spec:
   displayName: "Test URM Git Integrations"
   description: " My description"
