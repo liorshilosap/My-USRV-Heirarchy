@@ -1,8 +1,0 @@
-apiVersion: accounts.resource.api.sap/v1
-metadata:
-  name: f1
-  path: /test/test-cascade-delete-org4
-spec:
-  displayName: "Dor And Noam org222"
-  description: " My description"
-type: Folder
