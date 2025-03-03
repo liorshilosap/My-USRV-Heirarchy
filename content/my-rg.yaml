@@ -1,8 +1,0 @@
-apiVersion: accounts.resource.api.sap/v1
-metadata:
-  name: my-first-rg
-  path: /my-first-org/my-first-folder
-spec:
-  displayName: "MY New display name"
-  description: " My description"
-type: ResourceGroup
